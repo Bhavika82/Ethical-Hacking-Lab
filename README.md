@@ -3,20 +3,19 @@
 **Introduction**
 
 This repository provides a detailed guide to setting up a fully functional Ethical Hacking Lab using VirtualBox.
-
 The lab is built using a lightweight Windows 10 Superlite Ghost ISO, equipped with essential tools like Python, Java, SQL, and web browsers for ethical hacking practices.
 
 **System Requirements**
 
 Before setting up the lab, ensure your system meets the following requirements:
 
-Host OS: Windows, Linux, or macOS
+**Host OS**: Windows, Linux, or macOS
 
-RAM: Minimum 8GB
+**RAM**: Minimum 8GB
 
-Storage: At least 20GB of free space
+**Storage**: At least 20GB of free space
 
-Software:
+**Software**:
 
   VirtualBox
   
