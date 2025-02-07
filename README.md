@@ -15,7 +15,7 @@ Before setting up the lab, ensure your system meets the following requirements:
 
 **Storage**: At least 20GB of free space
 
-**Software**:
+**Software required**:
 
   VirtualBox
   
